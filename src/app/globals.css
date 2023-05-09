@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Fauna+One&family=IBM+Plex+Sans+Arabic:wght@700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  margin: auto;
+}
